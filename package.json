@@ -1,0 +1,28 @@
+{
+  "name": "chocolatemoo53",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A blog for ChocolateMoo53.",
+  "main": "index.js",
+  "devDependencies": {
+    "js-beautify": "^1.15.1"
+  },
+  "scripts": {
+    "test": "npm run beautify",
+    "beautify": "js-beautify layouts/**/*.html -r"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chocolatemoo53/chocolatemoo53.git"
+  },
+  "author": {
+    "name": "ChocolateMoo53",
+    "email": "54446699+chocolatemoo53@users.noreply.github.com",
+    "url": "https://www.chocolatemoo53.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chocolatemoo53/chocolatemoo53/issues"
+  },
+  "homepage": "https://github.com/chocolatemoo53/chocolatemoo53#readme"
+}
