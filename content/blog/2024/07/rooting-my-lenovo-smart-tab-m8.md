@@ -1,8 +1,11 @@
----
-title: "Rooting my old Lenovo Android tablet and running LineageOS"
-date: 2025-07-10 03:27:07 +0000
-url: /2025/07/10/rooting-an-old-tablet
----
++++
+title = "Rooting my Lenovo Smart Tab M8 and running Lineage OS on it"
+date = "2024-07-08"
+tags = [
+    "android",
+    "experiments",
+]
++++
 
 For my first post, I simply wanted to share an interesting thing I did. Today, I rooted my Android tablet and it wasn't the first time. This Lenovo tablet is quite simple. The processer can be slow and not much works on it beyond watching things. It's pretty good for watching things but it's certainly not the best screen I've ever seen. What some may find interesting is the Dolby Atmos equalizer which is simply an application which changes some EQ, as least that's what it sounds like, to match what you're currently using your tablet for. Like, changing it to dynamic or music mode. I assume it's doing something but maybe it's just a simple way to attract more people to buy it because the assume the speakers will be quality. They're fine in reality. It comes with a stand which charges via micro USB. The few times I do remember using it, it was for simple stuff like playing a game through Parsec or watching a movie. 
 
