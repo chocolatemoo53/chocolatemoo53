@@ -1,0 +1,15 @@
+Privacy
+
+No personally identifiable information about you is collected without your consent. Websites hosted under this domain do not have a reason to collect any information about you, serve personalized advertising, or sell data to anyone. This website is not owned by a business or anything of that nature.
+
+Sometimes embeds will be linked on the site, which will have a separate privacy policy. There will be an attempt to make the embed privacy friendly, like using no-cookie YouTube embeds, but overall, the privacy practices of outside website are going to be independent of this one. Another example is CAPTCHA like Cloudflare Turnstile. It’s best to consult their privacy policy directly for any questions but overall, any data collected is only to verify you with the CAPTCHA and contains nothing identifying.
+
+Occasionally referral or affiliate links are used inside articles. Anything of that nature is directly mentioned and often times has benefits over signing up with a regular URL. If you want avoid the potential tracking of the link, simply visit their website directly.
+
+The website is equipped with anonymous metrics to understand more about the audience of the website. These insights to improve the website and create a better experience for visitors. These analytics are powered by Simple Analytics, a privacy-friendly web analytics provider. You can learn more about Simple Analytics on its website.
+
+The website uses the services of Micro.blog and Cloudflare, however, these are service providers who host the content of the website and rarely collect any information in addition to what is needed to serve the content of the website.
+
+If you came from a site protected by go away: This a simple bot protection service, all information collected to verify that the request you are currently making is a legitimate request from a natural visit by checking your browser session. Logs related to making your request is collected and IP information is collected for verification. Similar to other services, this is a bare minimum requirement to serve you the contents of the website you are choosing to visit. In order to collect the require information and make the check, Javascript may be required. Please be aware of this if you are receiving problems while attempting to verify (although this is already on the verify page itself) and check your IP as it may be blocked or checked more often if it comes from a common range of abusive type IP addresses. In general there is no personal data (names, emails, addresses) collected, it’s only for bots.
+
+For cloudstreaming documentation only: This documentation is hosted on GitBook, they use a small cookie to collect page view information among some other factors but nothing collected can be used to personally identify you. As stated before, any specific questions about data collection should be directed at their privacy policy directly.

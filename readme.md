@@ -1,3 +1,3 @@
-# Hello
+# Welcome!
 
-I'm ChocolateMoo53, when I'm not programming something, I'm probably designing. I work on lots of small project and I love building websites.
+Hello, I'm ChocolateMoo53 (ˈtʃɑːk.lət muːs). I work on a couple of projects mainly in cloud computing, HPC, and other various topics. Whatever I find cool at the moment. 
