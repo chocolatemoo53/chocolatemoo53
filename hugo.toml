@@ -1,0 +1,20 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'ChocolateMoo53'
+theme = "hugo-theme-console"
+
+[params]
+  description = "An eclectic blog with notes on graphic design, development, and anything else you can think of."
+  animateStyle = "animate-fade-in" # Animation style for content
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
